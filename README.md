@@ -1,7 +1,17 @@
-# Introducción de JS para React
+## Task App | cmds
 
-Si quieren ejecutar el programa, deben de reconstruir los módulos de node, para eso ejecuten el siguiente comando en la carpeta del proyecto
+Si deseas ejecutar el programa, antes debes ejecutar el siguiente comando en la carpeta del proyecto para regenerar *node-modules*.
 
 ```
 npm install
 ```
+
+<leer> 
+ff
+{leer} 
+sdf
+(leer) dsf
+'leer' 
+dsf
+"leer"
+sdf
